@@ -1,2 +1,2 @@
-# microservice-gateway-and-service-discovery
-You can find here dotnet core microservice architecture and service discovery (Eureka)
+# DotNet Core Microservice architecture
+You can find here a simple microservice architecture and service discovery (Eureka)
